@@ -9,3 +9,12 @@
 #####2. General
 - Team: Work and discuss with @thong, @thanhnguyen.
 
+#### 15/Feb/2017
+
+#####1. JSH: 
+- Fix bug on Leantesting: #600 and #603
+
+#####2. General
+- Team: Work and discuss with @thong, @thanhnguyen.
+- Research about FRP
+

@@ -18,3 +18,18 @@
 - Team: Work and discuss with @thong, @thanhnguyen.
 - Research about FRP
 
+#### 16/Feb/2017
+
+#####1. JSH: 
+- Fix bug on Leantesting
+
+#####2. General
+- Research about FRP
+
+#### 17/Feb/2017
+
+#####1. JSH: 
+- Fix bug on Leantesting
+
+#####2. General
+- Research about FRP
